@@ -17,6 +17,7 @@ I have a blog, go and check it @[carlos-toruno.com](https://www.carlos-toruno.co
 ![Tidyverse](https://img.shields.io/badge/-Tidyverse-%23646CFF?style=flat-square&logo=tidyverse&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-%232c3e50?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
