@@ -8,7 +8,6 @@ I have a blog, go and check it @[carlos-toruno.com](https://www.carlos-toruno.co
 
 ![R](https://img.shields.io/badge/-R-007ACC?style=flat-square&logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
-![Rust](https://img.shields.io/badge/-Rust-181717?style=flat-square&logo=rust)
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B32C3?style=flat-square&logo=elixir)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -28,7 +27,7 @@ I have a blog, go and check it @[carlos-toruno.com](https://www.carlos-toruno.co
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-%23EC4A3F?style=flat-square&logo=streamlit&logoColor=ffffff)
-![Rocket](https://img.shields.io/badge/-Rocket-D33847?style=flat-square&logo=rocket&logoColor=white)
+![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
