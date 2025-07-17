@@ -19,7 +19,7 @@ I have a blog, go and check it @[carlos-toruno.com](https://www.carlos-toruno.co
 ![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-%232c3e50?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
-![DuckDB](https://img.shields.io/badge/-DuckDB-003B57?style=flat-square&logo=duckdb&logoColor=FFF000)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=000)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=fff)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=fff)
