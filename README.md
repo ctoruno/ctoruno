@@ -32,4 +32,4 @@ I have a blog, go and check it @[carlos-toruno.com](https://www.carlos-toruno.co
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=ctoruno&show_icons=true&theme=dracula)
+![ctoruno's github stats](https://github-readme-stats.vercel.app/api?username=ctoruno&show_icons=true&theme=dracula)
