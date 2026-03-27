@@ -31,5 +31,6 @@ I have a blog, go and check it @[carlos-toruno.com](https://www.carlos-toruno.co
 ![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-![ctoruno's github stats](https://github-readme-stats.vercel.app/api?username=ctoruno&show_icons=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ctoruno&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ctoruno&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ctoruno&theme=default)
